@@ -5,4 +5,4 @@ Punto 1
 1) c- Después de contrastar mis tiempos de ejecución con los de un compañero, observé que son bastante parecidos, con variaciones mínimas de milisegundos y sin una disparidad significativa.
 
   [Ejercicio 2-A](https://github.com/bautistasoresi/ASO2024TPs/raw/main/TP3/arqtp3-2a.cc)
-  [Ejercicio 2-B]()
+  [Ejercicio 2-B](https://github.com/bautistasoresi/ASO2024TPs/blob/main/TP3/2B.pdf)
