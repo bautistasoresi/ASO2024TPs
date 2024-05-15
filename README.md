@@ -4,4 +4,4 @@ Punto 1
 1) b- Tras ejecutar el programa con las líneas 11, 12, 19 y 20 comentadas, noté que el resultado final siempre es 0, con un tiempo de ejecución aproximado de 0.015 segundos. Sin embargo, al descomentar esas líneas, el resultado final cambia de 0 y el tiempo de ejecución aumenta a alrededor de 2.0115 segundos, con variaciones mínimas. Esta fluctuación se debe a la presencia de dos bucles for que estaban comentados, los cuales no tenían un impacto relevante en el proceso pero contribuían al tiempo total de ejecución del programa.
 1) c- Después de contrastar mis tiempos de ejecución con los de un compañero, observé que son bastante parecidos, con variaciones mínimas de milisegundos y sin una disparidad significativa.
 
-   <a href="./arqtp3-2a.cc">Codigo resuelto</a>
+   <a href="../arqtp3-2a.cc">Codigo resuelto</a>
